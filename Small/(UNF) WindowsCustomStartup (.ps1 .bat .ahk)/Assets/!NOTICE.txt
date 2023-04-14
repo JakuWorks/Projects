@@ -1,0 +1,2 @@
+The assets folder is used for installation.
+Despite the name, RequiredForUpgradedStartup-ToCopy isn't actively used. It gets copied to WindowsCustomStartup Folder and renamed to RequiredForUpgradedStartup after installation.

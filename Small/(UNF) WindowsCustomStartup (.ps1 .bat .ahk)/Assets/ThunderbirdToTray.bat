@@ -1,0 +1,1 @@
+"C:\Program Files\AutoHotkey\UX\AutoHotkeyUX.exe" "C:\Users\Jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Thunderbird_Minimize.ahk"
