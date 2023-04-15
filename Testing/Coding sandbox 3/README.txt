@@ -1,1 +1,0 @@
-I made many simple tests to check simple ideas and concepts, try ways of doing things without having to lauch the full script, etc.
