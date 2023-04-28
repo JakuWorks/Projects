@@ -1,9 +1,5 @@
 
 
-Notes:
-    If not stated otherwise, all dates are in the DD.MM.YYYY format and all time is written in the HH:MM / HH:MM:SS formats
-
-
 Used Coding Languages:
     - Python
 

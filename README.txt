@@ -3,14 +3,26 @@
 ------ ------ ------ ------ ------          Overview         ------ ------ ------ ------ ------
 
 
-    While learning to code, I usually make projects of various sizes. Surprisingly! I tend to store/make them in this repository...
+    While coding, I usually make projects of various sizes. Surprisingly! I tend to store/make them in this repository...
+
+    This repository was created about 14.04.2023 at 17:42 GMT+2 (though I started making it a few hours/days earlier).
+    This repository may also be called an archive because there are also archived projects stored in it.
 
 
 ------ ------ ------ ------ ------      Project Prefixes     ------ ------ ------ ------ ------
 
 
-    - (UNF) - This means that the project is ABANDONED, UNFINISHED and DOES NOT WORK.
-    - (W.I.P) - (work in progress) This means that the project isn't yet finished BUT ALSO isn't abandoned.
+    - (UNF) (Unfinished and Abandoned) - This means that the project is ABANDONED, UNFINISHED and DOES NOT WORK.
+    - (W.I.P) (Work in Progress) - This means that the project isn't yet finished BUT ALSO isn't abandoned.
+    - (EXP) (Expanding Archive) - This is a folder/archive of small, similar and often one-file projects. TIP: To find the biggest projects in EXPs, sort them by size.
+
+
+------ ------ ------ ------ ------           Notes           ------ ------ ------ ------ ------
+
+
+    - All dates and times are in the GMT+2 timezone unless stated otherwise.
+    - All READMEs, NOTEs, NOTICEs, etc. use the DD.MM.YY date format and MM⠆HH or MM⠆HH⠆SS time format unless stated otherwise.
+    - ~90% of dates in all READMEs, NOTEs, NOTICEs, etc. are approximate and some can be even wrong by over a few months.
 
 
 ------ ------ ------ ------ ------          Contact          ------ ------ ------ ------ ------
@@ -21,7 +33,7 @@
     My E-Mail is: kubek0823@gmail.com
 
     My GitHub: https://github.com/JakuWorksOfficial/
-    My main GitHub repository: https://github.com/JakuWorksOfficial/Projects
+    My main GitHub repository (this one): https://github.com/JakuWorksOfficial/Projects
 
 
 ------ ------ ------ ------ ------  Project README TEMPLATE  ------ ------ ------ ------ ------
