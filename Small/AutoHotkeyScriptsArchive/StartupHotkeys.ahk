@@ -1,8 +1,8 @@
 ; -------------------------------------------------------------------------------------------------------------------------------------
 ; OVERVIEW
 
-
-    ; Time used/edited: from  15.01.2023  to  28.04.2023 (the day of editing this README)
+ 
+    ; Date created: from  15.01.2023  to  28.04.2023 (the day of editing this README)
     ; This is a simple AutoHotkey v2.0 script I put in my startup apps (usually: "DRIVE:\Users\USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup") to implement simple custom hotkeys I find useful.
 
 

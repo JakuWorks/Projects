@@ -2,7 +2,7 @@
 ; OVERVIEW
 
 
-    ; Time used/edited: Around 10.04.2023
+    ; Date created: Around 10.04.2023
     ; Easy mouse M1 spammer, that clicks 100 times after clicking L, I made very quickly.
 
 

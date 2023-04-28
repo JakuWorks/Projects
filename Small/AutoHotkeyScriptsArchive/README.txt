@@ -17,6 +17,8 @@ Other information
 Short Description:
     AutoHotkey is really useful and just I can't stop making these from time to time.
 
+    Before I started documenting them, I already made many short AutoHotkey scripts, I started officially learning AutoHotkey about 01.10.2022, though I knew about AutoHotkey many years before that.
+
 
 Overview Template:
 
@@ -24,7 +26,7 @@ Overview Template:
 ; OVERVIEW
 
 
-    ; Time used/edited:
+    ; Date created:
     ; ...
 
 

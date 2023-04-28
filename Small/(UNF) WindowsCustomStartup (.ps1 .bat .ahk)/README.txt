@@ -1,7 +1,5 @@
 
 
-Notes:
-    If not stated otherwise, all dates are in the DD.MM.YYYY format and all time is written in the HH:MM / HH:MM:SS formats
     THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK
 
 
@@ -27,7 +25,7 @@ Other information
 Short Description:
     THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK
 
-    I got a new laptop and I wanted to 'set it up'. One time I made my own autostart (with custom hotkeys) and thought - why not I create my own 'downloader' for it and why not I do it in PowerShell Script.
+    I got a new laptop and I wanted to 'set it up'. One time I made my own autostart (with custom hotkeys) and thought - why not I create my own 'downloader' for it and why not I do it in PowerShell Script?
     Then because I had very little time (school, exams) I had to stop working on it and leave it unfinished, to abandon this project a few months after.
 
     THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK

@@ -2,7 +2,7 @@
 ; OVERVIEW
 
 
-    ; Time used/edited: 28.04.2023
+    ; Date created: 28.04.2023
     ; This is a simple AutoHotkey v2.0 script I made to count all my passwords entries.
 
 

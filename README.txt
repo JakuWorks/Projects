@@ -21,8 +21,8 @@
 
 
     - All dates and times are in the GMT+2 timezone unless stated otherwise.
-    - All READMEs, NOTEs, NOTICEs, etc. use the DD.MM.YY date format and MM⠆HH or MM⠆HH⠆SS time format unless stated otherwise.
-    - ~90% of dates in all READMEs, NOTEs, NOTICEs, etc. are approximate and some can be even wrong by over a few months.
+    - All READMEs, etc. use the DD.MM.YY date format and MM⠆HH or MM⠆HH⠆SS time format unless stated otherwise.
+    - ~90% of dates in all READMEs, etc. are approximate and some can be even wrong by over a few months.
 
 
 ------ ------ ------ ------ ------          Contact          ------ ------ ------ ------ ------
