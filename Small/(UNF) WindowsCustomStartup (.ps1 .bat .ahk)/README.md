@@ -4,14 +4,14 @@
 <br>
 
 
-## :warning: <font color="red">**THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK!**</font> :warning:
+## :warning: **THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK! :warning: ** :warning:
 
 
 <br>
 
 
 ## Used Coding Languages:
-- PowerShell Script (.ps1) :warning:
+- PowerShell Script (.ps1)
 - AutoHotkey (.ahk)
 - Batch (.bat)
 
