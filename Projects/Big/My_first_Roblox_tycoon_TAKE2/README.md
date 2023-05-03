@@ -4,13 +4,17 @@
 ## Used Coding Languages:
 - **LuaU** (with Roblox's many built-in functions)
 
+
 <br>
+
 
 ## Noteworthy Skills I've Learned:
 - Coding well in LuaU (with Roblox's many built-in functions)
 - Using Roblox Studio (specifically the features for making games)
 
+
 <br>
+
 
 ## Other Information:
 - The main periods during which I worked on this project were about:  
@@ -19,7 +23,9 @@
 - This project took me **[] months**!
 - It has **[] lines** of code!
 
+
 <br>
+
 
 ## Short Description:
 It was my first big project ever! <br>

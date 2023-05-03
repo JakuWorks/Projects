@@ -12,18 +12,39 @@
 #Requires AutoHotkey v2.0
 
 
-; L - Open all folds; Detailed guide:
-; 1. (optional) Close all editor tabs (or there'll be a havoc in them)
-; 2. Collapse all Editor Folds (i.e. with the collapse all button or CTRL+P - ">Collapse Folders in Explorer")
-; 3. Select the editor tab You want to start with (expand it and all below it, unless You stop holding L) 
-; 4. Make sure the editor tab You want to start with is collapsed
-; 5. Hold L until You expand everyting You want
-#MaxThreadsPerHotkey 1
-l:: {
+; Because the only key USED IN THIS SCRIPT, that can interact with the "Do You want to save changes" window is SPACE, then 99% the not closed editor tabs' changes are going to be saved.
+MsgBox "CLOSE ALL EDITOR WINDOWS UNLESS YOU WANT TO SUFFER THE CONSEQUENCES"
+
+
+UserHasBeenWarned := 0
+
+
+UncollapseOnce() {
     Send "{Ctrl Down}w{Ctrl Up}{Space}{Ctrl Down}w{Ctrl Up}"
     Sleep 100
     Send "{Ctrl Down}w{Ctrl Up}{Down}{Ctrl Down}w{Ctrl Up}"
     Sleep 100
+}
+
+
+#MaxThreadsPerHotkey 1
+l:: {
+    global UserHasBeenWarned
+    if UserHasBeenWarned = 0 {
+        MsgBox "CLOSE ALL EDITOR WINDOWS UNLESS YOU WANT TO SUFFER THE CONSEQUENCES; If You didn't - Stop holding L; If You did - Press Enter"
+        UserHasBeenWarned := 1
+    }
+
+    loop {
+        if GetKeyState("l") {
+            UncollapseOnce()
+        }
+
+        else {
+            UserHasBeenWarned := 0
+            break
+        }
+    }
 }
 
 
