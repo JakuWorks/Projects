@@ -1,7 +1,7 @@
 # Overview
 >### I created this repository to easily document, organize and create my projects in one place, also to give my new projects a good backbone, a good starting point and to reduce chaos.
 
-I'm a Young Polish Male self-taught programmist. I'm on intense Self-Improvement. <br>
+I'm a Young Polish Male self-taught programmer. I'm on intense Self-Improvement. <br>
 While coding, I usually make projects of various sizes. Surprisingly! I tend to store/make them in this repository...<br>
 
 This repository was created about **14.04.2023 at 17:42 GMT+2** (though I started making it a few hours/days earlier).<br>
