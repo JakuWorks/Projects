@@ -4,7 +4,7 @@
 <br>
 
 
-## :warning: **THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK! :warning: ** :warning:
+## :warning: **THIS PROJECT IS UNFINISHED, ABANDONED AND DOESN'T WORK!** :warning:
 
 
 <br>
