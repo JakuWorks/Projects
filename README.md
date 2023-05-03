@@ -69,8 +69,8 @@ This repository may also be called an archive because there are also archived pr
   - **(Good at)** - Knowledge of useful software and website
   - **(Good at)** - Making README files
   - **(Moderate)** - **Markdown** (.md) text formatting
+  - **(Rookie)** - Using Git, GitHub and VS Code to manage repositories
   - **(Rookie)** - Using Inkscape and making Simple Vector images
-
 
 <br>
 
