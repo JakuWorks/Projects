@@ -79,7 +79,7 @@ My **YouTube Channel** is: https://www.youtube.com/channel/UCetKkeRPmwfGZ1ZAT3V6
 My **StackOverflow** is: https://stackoverflow.com/users/21808573/jakuworksofficial
 
 My **Discord ID** is: `432542587384233988` <br>
-My **Discord Username** is: `Kubekon#7175` <br>
+My **Discord Username** is: `Kubekon#7175`
 
 My **GitHub**: https://github.com/JakuWorksOfficial/ <br>
 My **main GitHub repository** *(this one)*: https://github.com/JakuWorksOfficial/Projects
