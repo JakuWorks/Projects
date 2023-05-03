@@ -12,15 +12,6 @@ This repository may also be called an archive because there are also archived pr
 <br>
 
 
-# Project Prefixes
-- `(UNF)` (Unfinished and Abandoned) - This means that the project is ABANDONED, UNFINISHED and DOES NOT WORK.
-- `(W.I.P)` (Work in Progress) - This means that the project isn't yet finished BUT ALSO isn't abandoned.
-- `(EXP)` (Expanding Archive) - This is a folder/archive of small, similar and often one-file projects. TIP: To find the biggest projects in EXPs, sort them by size.
-
-
-<br>
-
-
 # Notes
 - ~XYZ means **around** XYZ
 - ~\~XYZ means **really around** XYZ
@@ -45,7 +36,7 @@ This repository may also be called an archive because there are also archived pr
  - **22.05.2022** - Out of boredom, I started making a Roblox tycoon game (my first project).
 
 ### After starting Self-Improvement:
- - **~10.06.2022** - **Officially started learning to code** and **the beginning of my Self-Improvement** <sub>*(my self-improvement began after I read a comment on some forum that Hamza is a great self-improvement YouTuber; I started watching Hamza and it all started...; bless the person who wrote that comment).*</sub>
+ - **~10.06.2022** - **Officially started learning to code** and **the beginning of my Self-Improvement** <sub>*(my Self-Improvement journey began after I read a comment on some forum that Hamza is a great self-improvement YouTuber; I started watching Hamza and it all started...; bless the person who wrote that comment).*</sub>
   
  - **Time in between** - Making more projects, getting more intense with Self-Improvement.
   
@@ -76,6 +67,7 @@ This repository may also be called an archive because there are also archived pr
   - **(Rookie)** - Using Git, GitHub and VS Code to manage repositories
   - **(Rookie)** - Using Inkscape and making Simple Vector images
 
+
 <br>
 
 
@@ -87,53 +79,6 @@ My **YouTube Channe**l is: https://www.youtube.com/channel/UCetKkeRPmwfGZ1ZAT3V6
 
 My **GitHub**: https://github.com/JakuWorksOfficial/ <br>
 My **main GitHub repository** *(this one)*: https://github.com/JakuWorksOfficial/Projects
-
-
-<br>
-
-
-# Project README TEMPLATE
-`Note: READMEs are written in markdown (.md) file format` <br>
-`Note: Yes indeed, this template is just a modified copy of` ([this README](Projects/Big/My_first_Roblox_tycoon_TAKE2/README.md))
-
-
-<br>
-
-
-```
-# Project Summary:
-
-
-## Used Coding Languages:
-- **AutoHotkey Script** (mainly v2.0) (.ahk)
-
-
-<br>
-
-
-## Noteworthy Skills I've Learned:
-- Coding well in LuaU (with Roblox's many built-in functions)
-- Using Roblox Studio (specifically the features for making games)
-
-
-<br>
-
-
-## Other Information:
-- The main periods during which I worked on this project were about:  
-  - **[]  to  []** *(summer and the 'easy' school days)* - `Main working period`
-  - **[]  to  []** *(after exams)* - `Finishing period`
-- This project took me **[] months**!
-- It has **[] lines** of code!
-
-
-<br>
-
-
-## Short Description:
-It was my first big project ever! <br>
-Despite my lack of time, it has gone pretty well.
-```
 
 
 <br>
