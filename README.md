@@ -1,25 +1,27 @@
 # Overview
-I'm a Young Polish Male self-taught programmist. I'm intense with my Self-Improvement, though there's still lots to do and improve on. <br>
+>### I created this repository to easily document, organize and create my projects in one place, also to give my new projects a good backbone, a good starting point and to reduce chaos.
+
+I'm a Young Polish Male self-taught programmist. I'm on intense Self-Improvement. <br>
 While coding, I usually make projects of various sizes. Surprisingly! I tend to store/make them in this repository...<br>
 
 This repository was created about **14.04.2023 at 17:42 GMT+2** (though I started making it a few hours/days earlier).<br>
 This repository may also be called an archive because there are also archived projects stored in it.
 
-
->### I created this repository to easily document, organize and create my projects in one place, also to give my new projects a good backbone, a good starting point and to reduce chaos.
+## Current Status (03.05.2023): Learning for Exams, cannot work on this repo, last exam is on: 25.05.2023
 
 
 <br>
 
 
 # Notes
+- There are lots of README files explaining how this repository is organized
 - ~XYZ means **around** XYZ
 - ~\~XYZ means **really around** XYZ
 - All dates and times are in the **GMT+2** timezone unless stated otherwise.
 - All READMEs, etc. use the `DD.MM.YY` date format and `MM⠆HH` or `MM⠆HH⠆SS` time format unless stated otherwise.
 - ~90% of dates in all READMEs, etc. are approximate and some can be even wrong by over a few months. 
 - In READMEs the [] are placeholders
-- After doing simple edits to the projects, I may not change its description (i.e. lines of code number)
+- After doing simple edits to the projects, I may not change their description (i.e. lines of code number)
 
 
 <br>
