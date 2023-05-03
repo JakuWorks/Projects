@@ -75,7 +75,7 @@ This repository may also be called an archive because there are also archived pr
 
 # Contact:
 My contact **E-Mail** is: `kubek0823@gmail.com` <br>
-My **YouTube Channel** is: https://www.youtube.com/channel/UCetKkeRPmwfGZ1ZAT3V6GTA
+My **YouTube Channel** is: https://www.youtube.com/channel/UCetKkeRPmwfGZ1ZAT3V6GTA <br>
 My **StackOverflow** is: https://stackoverflow.com/users/21808573/jakuworksofficial
 
 My **Discord ID** is: `432542587384233988` <br>
