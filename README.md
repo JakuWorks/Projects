@@ -18,6 +18,8 @@ This repository may also be called an archive because there are also archived pr
 
 
 # Notes
+- ~XYZ means **around** XYZ
+- ~\~XYZ means **really around** XYZ &nbsp; <sub>`NOTE: In raw markdown (.md) text, use ~\~ instead, to not accidentally trigger the strikethrough formatting`</sub>
 - All dates and times are in the GMT+2 timezone unless stated otherwise.
 - All READMEs, etc. use the DD.MM.YY date format and MM⠆HH or MM⠆HH⠆SS time format unless stated otherwise.
 - ~90% of dates in all READMEs, etc. are approximate and some can be even wrong by over a few months.
@@ -27,10 +29,17 @@ This repository may also be called an archive because there are also archived pr
 <br>
 
 
-# Contact
+# About Me and Contact
+Short history:
+ - **~\~Over a year before** - Getting into coding, mainly by getting knowledge about Roblox exploiting and using the Source Engine Games' Console.
+ - **22.05.2022** - Out of boredom, I started making a Roblox tycoon game.
+ - **~10.06.2022** - The beginning of my Self-Improvement (my life was garbage before this) (initially started by YouTube recommending me one of Hamza's videos)
+ - **The time in between** - Making more projects, getting more intense with Self-Improvement
+ - **03.05.2023 (15:01)** I'm a young upcoming Polish programmist. Alongside learning to code I'm also on intense self-improvement, getting better every day.
+
 My Discord ID is: `432542587384233988` <br>
 My Discord Username is: `Kubekon#7175` <br>
-My E-Mail is: `kubek0823@gmail.com` <br>
+My contact E-Mail is: `kubek0823@gmail.com` <br>
 My YouTube Channel is: https://www.youtube.com/channel/UCetKkeRPmwfGZ1ZAT3V6GTA
 
 My GitHub: https://github.com/JakuWorksOfficial/ <br>
