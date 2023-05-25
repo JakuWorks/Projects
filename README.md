@@ -7,7 +7,7 @@ While coding, I usually make projects of various sizes. Surprisingly! I tend to 
 This repository was created about **14.04.2023 at 17:42 GMT+2** (though I started making it a few hours/days earlier).<br>
 This repository may also be called an archive because there are also archived projects stored in it.
 
-## Current Status (03.05.2023): Learning for Exams, cannot work on this repo, last exam is on: 25.05.2023
+## Current Status (25.05.2023): I have much free time, I can work
 
 
 <br>
