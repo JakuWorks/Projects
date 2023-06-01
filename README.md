@@ -7,7 +7,7 @@ While coding, I usually make projects of various sizes. Surprisingly! I tend to 
 This repository was created about **14.04.2023 at 17:42 GMT+2** (though I started making it a few hours/days earlier).<br>
 This repository may also be called an archive because there are also archived projects stored in it.
 
-## Current Status (25.05.2023): I have much free time, I can work
+## Current Status (25.05.2023): I have much free time. I can work.
 
 
 <br>
@@ -54,9 +54,10 @@ This repository may also be called an archive because there are also archived pr
 - **(Good at)** - **LuaU** in the **Roblox Studio** and the **Synapse X** exploiting environment
 - **(Moderate)** - **Source Engine Console** and **config**
 - **(Rookie)** - **AutoHotkey v2.0** (.ahk)
+- **(Rookie)** - **RegEx**
 - **(Rookie)** - **Python** (.py)
 - **(Beginner)** - **PowerShell Script** (.ps1)
-- **(Beginner)** - **Windows Batch** (.bat) beginner
+- **(Beginner)** - **Windows Batch** (.bat)
 - **(Tried once)** - **RegEx**
 - **(Tried once)** - **C#**
 
