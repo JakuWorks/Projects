@@ -58,7 +58,6 @@ This repository may also be called an archive because there are also archived pr
 - **(Rookie)** - **Python** (.py)
 - **(Beginner)** - **PowerShell Script** (.ps1)
 - **(Beginner)** - **Windows Batch** (.bat)
-- **(Tried once)** - **RegEx**
 - **(Tried once)** - **C#**
 
 ### Other noteworthy skills useful in software development:
