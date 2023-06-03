@@ -64,9 +64,10 @@ This repository may also be called an archive because there are also archived pr
   - **(Good at)** - The English language
   - **(Good at)** - Knowledge of software and websites
   - **(Good at)** - Making README files
-  - **(Moderate)** - Organizing, managing and making Notion and Trello boards
+  - **(Moderate)** - Math (<ins>Polish</ins> School 8'th grade / High School 1'st grade level)
+  - **(Moderate)** - Organizing, managing and making To-Do tasks (Notion, Tello)
   - **(Moderate)** - **Markdown** (.md) text formatting
-  - **(Rookie)** - Using Git, GitHub and VS Code to manage repositories
+  - **(Moderate)** - Using Git, GitHub and VS Code to manage repositories
   - **(Rookie)** - Using Inkscape and making Simple Vector images
 
 
