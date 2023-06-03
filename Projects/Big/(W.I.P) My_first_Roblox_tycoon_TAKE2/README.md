@@ -19,7 +19,7 @@
 ## Other Information:
 - The main periods during which I worked on this project were about:  
   - **22.05.2022  to  27.01.2023** *(summer and the 'easy' school days)* - `Main working period`
-  - **[]  to  []** *(after exams)* - `Finishing period`
+  - **26.05.2023  to  []** *(after exams)* - `Finishing period`
 - This project took me **[] months**!
 - It has **[] lines** of code!
 
