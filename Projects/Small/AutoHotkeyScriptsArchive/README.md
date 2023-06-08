@@ -9,15 +9,15 @@
 
 
 ## Noteworthy Skills I've Learned:
-- Making and using AutoHotkey scripts to save time and automate tasks
+- Making and using AutoHotkey scripts to save time and automate tasks.
 
 
 <br>
 
 
 ## Other Information:
-- I started documenting these scripts on  **28.04.2023 around 15:30**
-- I doubt I'll ever consider this 'project' 'completed'
+- I started documenting these scripts on  **28.04.2023**.
+- I doubt I'll ever consider this 'project' 'completed', because of its nature
 
 
 <br>

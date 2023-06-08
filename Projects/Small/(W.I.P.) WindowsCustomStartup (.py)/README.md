@@ -18,8 +18,8 @@
 
 ## Other Information:
 - The main periods during which I worked on this project were around:
-  - **14.04.2023  to  15.04.2023** - `Got the idea and did simple preparations (created a folder)` *(then I got consumed by making this 'archive' repository until 03.05.2023; then I had to prepare heavily for the exams)*
-- This project took me **[] months**!
+  - **[] to []**
+- This project took me **[] days**!
 - It has **[] lines** of code!
 
 

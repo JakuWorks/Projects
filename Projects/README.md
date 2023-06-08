@@ -1,7 +1,7 @@
 # Overview
 The projects were sorted by size: 
-- `Big` projects - took/will take over a few months to complete
-- `Small` projects - took/will take a few days/weeks to complete
+- `Big` projects - take over a few months to complete
+- `Small` projects - take a few days/weeks to complete
 
 The `TestingAndDump` folder contains short tests I made to quickly check a small concept &nbsp;&nbsp;it also contains really small projects that got trashed in an early stage, that I didn't want to just delete.
 
@@ -24,8 +24,6 @@ The `TestingAndDump` folder contains short tests I made to quickly check a small
 
 # Project README TEMPLATE
 `Note: READMEs are written in markdown (.md) file format`<br>
-`Note: Yes indeed, this template is just a modified copy of` ([this README](Projects/Big/My_first_Roblox_tycoon_TAKE2/README.md))<br>
-`NOTE: This template is 'raw text' on purpose`
 
 
 <br>
@@ -54,7 +52,7 @@ The `TestingAndDump` folder contains short tests I made to quickly check a small
 - The main periods during which I worked on this project were about:  
   - **[]  to  []** *(summer and the 'easy' school days)* - `Main working period`
   - **[]  to  []** *(after exams)* - `Finishing period`
-- This project took me **[] months**!
+- This project took me **[] days**!
 - It has **[] lines** of code!
 
 

@@ -20,7 +20,7 @@
 
 
 ## Noteworthy Skills I've Learned:
-- The basics of PowerShell and Cmd
+- The basics of PowerShell and cmd
 - The basics of PowerShell Script (.ps1 files)
 - The basics of making .bat files
 - Using Chat GPT to save time on searching for tutorials (by not having to search them).
@@ -31,9 +31,9 @@
 
 ## Other Information:
 - The main periods during which I worked on this project were:  
-  - **01.02.2023  to  24.02.2023** *(around a month after Christmas)*
-- This project took me around **3 weeks**!
-- It has around **164 lines** of code!
+  - **01.02.2023  to  24.02.2023** *(around a month after Christmas)* - **23 days**
+- This project took me around **23 days**!
+- It has around **164 lines** of code (without blank lines)!
 
 
 <br>

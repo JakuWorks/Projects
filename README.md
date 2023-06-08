@@ -7,7 +7,7 @@ While coding, I usually make projects of various sizes. Surprisingly! I tend to 
 This repository was created about **14.04.2023 at 17:42 GMT+2** (though I started making it a few hours/days earlier).<br>
 This repository may also be called an archive because there are also archived projects stored in it.
 
-## Current Status (25.05.2023): I have much free time. I can work.
+## Current Status (updated on 08.06.2023): I have much free time. I'm working on this repo.
 
 
 <br>
@@ -19,9 +19,9 @@ This repository may also be called an archive because there are also archived pr
 - ~\~XYZ means **really around** XYZ
 - All dates and times are in the **GMT+2** timezone unless stated otherwise.
 - All READMEs, etc. use the `DD.MM.YY` date format and `MM⠆HH` or `MM⠆HH⠆SS` time format unless stated otherwise.
-- ~90% of dates in all READMEs, etc. are approximate and some can be even wrong by over a few months. 
+- ~90% of dates in all READMEs, etc. are approximate and the ones that have already passed before creating this repo <sub>for example the before self-improvement about me</sub> can be wrong by over a few months. 
 - In READMEs the [] are placeholders
-- After doing simple edits to the projects, I may not change their description (i.e. lines of code number)
+- My time is precious. After doing simple edits to the projects, I may not change their description (i.e. lines of code number).
 
 
 <br>
@@ -64,7 +64,8 @@ This repository may also be called an archive because there are also archived pr
   - **(Good at)** - The English language
   - **(Good at)** - Knowledge of software and websites
   - **(Good at)** - Making README files
-  - **(Moderate)** - Math (<ins>Polish</ins> School 8'th grade / High School 1'st grade level)
+  - **(Moderate)** - Writing optimized code
+  - **(Moderate)** - Math (Polish School 8'th grade / High School 1'st grade level)
   - **(Moderate)** - Organizing, managing and making To-Do tasks (Notion, Tello)
   - **(Moderate)** - **Markdown** (.md) text formatting
   - **(Moderate)** - Using Git, GitHub and VS Code to manage repositories
