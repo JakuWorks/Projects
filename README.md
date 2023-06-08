@@ -14,7 +14,9 @@ This repository may also be called an archive because there are also archived pr
 
 
 # Notes
-- There are lots of README files explaining how this repository is organized
+- **TO VIEW THE PROJECTS, GO INTO THE "Projects" FOLDER IN GITHUB**
+- I don't know a way to download a single project, I recommend downloading this entire repository.
+- There are lots of README files explaining many things
 - ~XYZ means **around** XYZ
 - ~\~XYZ means **really around** XYZ
 - All dates and times are in the **GMT+2** timezone unless stated otherwise.
