@@ -1,9 +1,18 @@
-import math, os
+import math, os, sys
 from random import randint
 from time import sleep
 from shutil import get_terminal_size
 
 # Written for Python 3.11
+# Written for Python 3.11
+# Written for Python 3.11
+# Written for Python 3.11
+# Written for Python 3.11
+# Written for Python 3.11
+# Written for Python 3.11
+
+input("This script was written for Python 3.11.4. Press enter if You okay with this?\n")
+
 
 ######################################################################################################
 # HELPER FUNCTIONS
@@ -152,6 +161,8 @@ def askUntillOptionInput(OptionsList, FirstMessage, RetryMessage):
 
 def drawQuadraticBezierCurve(StepSize, grey_line_frequency, StartingPositionX,StartingPositionY, MovingTargetPositionX,MovingTargetPositionY, EndPositionX,EndPositionY):  
 
+    print("Started the animation!")
+
     grey_line_frequency = math.floor(grey_line_frequency + 0.5)
 
     import turtle
@@ -291,6 +302,8 @@ def drawQuadraticBezierCurve(StepSize, grey_line_frequency, StartingPositionX,St
 def drawArc(Angle, Size, Segments):
 
     import turtle
+
+    print("Started the animation!")
 
     turtle.colormode(255)
 
