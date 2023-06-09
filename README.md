@@ -16,6 +16,7 @@ This repository may also be called an archive because there are also archived pr
 # Notes
 - **TO VIEW THE PROJECTS, GO INTO THE "Projects" FOLDER IN GITHUB**
 - I don't know a way to download a single project, I recommend downloading this entire repository.
+- Unless stated otherwise, I expect all projects to be run on a Windows 10/11 machine.
 - There are lots of README files explaining many things
 - ~XYZ means **around** XYZ
 - ~\~XYZ means **really around** XYZ
