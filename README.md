@@ -54,25 +54,12 @@ This repository may also be called an archive because there are also archived pr
 ## My current coding skills from best to worst:
 `NOTE: 'Titles' from best to worst:  Amazing At > Good at > Moderate > Rookie > Beginner > Tried once` <br>
 `NOTE: This list's order and the titles were selected compared to others learning that skill and my own honest 'feeling of it'`
-- **(Good at)** - **LuaU** in the **Roblox Studio** and the **Synapse X** exploiting environment
-- **(Moderate)** - **Source Engine Console** and **config**
+- **(Good at)** - **LuaU** in the **Roblox Studio** environment
 - **(Rookie)** - **AutoHotkey v2.0** (.ahk)
 - **(Rookie)** - **RegEx**
 - **(Rookie)** - **Python** (.py)
-- **(Beginner)** - **PowerShell Script** (.ps1)
 - **(Beginner)** - **Windows Batch** (.bat)
-- **(Tried once)** - **C#**
-
-### Other noteworthy skills useful in software development:
-  - **(Good at)** - The English language
-  - **(Good at)** - Knowledge of software and websites
-  - **(Good at)** - Making README files
-  - **(Moderate)** - Writing optimized code
-  - **(Moderate)** - Math (Polish School 8'th grade / High School 1'st grade level)
-  - **(Moderate)** - Organizing, managing and making To-Do tasks (Notion, Tello)
-  - **(Moderate)** - **Markdown** (.md) text formatting
-  - **(Moderate)** - Using Git, GitHub and VS Code to manage repositories
-  - **(Rookie)** - Using Inkscape and making Simple Vector images
+- **(Beginner)** - **PowerShell Script** (.ps1)
 
 
 <br>

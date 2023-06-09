@@ -1,17 +1,14 @@
+import math
+from time import sleep
+
 # This is an old unfinished project, I trashed it and created the PythonArcsAndBézierCurves small project.
 # I think I wanted to make a line, that would 'jump' to an inputted 'height' in the console
 
 
 ###################
 #  CONFIGURATION:
-MaxPosition = int(100) # The height gets "doubled", because it's the limit for positive and negative numbers. i.e. MaxPosition of 100 will be from -100 to 100.
+MaxPosition = int(100)  # The height gets "doubled", because it's the limit for positive and negative numbers. i.e. MaxPosition of 100 will be from -100 to 100.
 ####################
-
-import os, math
-from _thread import start_new_thread
-from time import sleep
-
-
 
 #while True:
 #    sleep(0.1)
