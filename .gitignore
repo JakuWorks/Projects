@@ -1,0 +1,41 @@
+# User-specific stuff
+.idea
+.ruff_cache
+.vscode
+
+# Local History for Visual Studio Code
+.history
+# Built Visual Studio Code Extensions
+*.vsix
+
+# LibreOffice locks
+.~lock.*
+
+# Notepad++ backups #
+*.bak
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# before PyInstaller builds the exe, so as to inject date/other info into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Cython debug symbols
+cython_debug
+
+# My own project tools
+.project_tools
+
+# My Backups of Projects
+*_MyBackup*
