@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PylintConfigService">
+    <option name="customPylintPath" value="C:\Users\Jakub\!KUBA\Projects\Projects\Small\(W.I.P) Self-HostedSimpleDiscordBot (.py)\venv\Scripts\pylint.exe" />
+    <option name="pylintArguments" value="--disable import-error" />
+  </component>
+</project>

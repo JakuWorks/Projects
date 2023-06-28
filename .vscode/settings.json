@@ -1,8 +1,0 @@
-{
-    "grammarly.selectors": [
-        {
-            "language": "git-commit",
-            "scheme": "file"
-        }
-    ]
-}

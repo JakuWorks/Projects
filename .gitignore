@@ -1,6 +1,8 @@
 # PyCharm and VSCode folders
-.idea\
 .vscode\
+.idea\
+.vscode
+.idea
 
 # Local History for Visual Studio Code
 .history
@@ -9,6 +11,7 @@
 
 # Ruff folder
 .ruff_cache\
+.ruff_cache
 
 # LibreOffice locks
 .~lock.*
@@ -18,6 +21,7 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__\
+__pycache__
 *.py[cod]
 *$py.class
 
@@ -37,6 +41,7 @@ cython_debug
 
 # My own project tools
 .project_tools\
+.project_tools
 
 # My Backups of Projects
 *_MyBackup*
