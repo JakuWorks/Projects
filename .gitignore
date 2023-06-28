@@ -1,12 +1,17 @@
-# User-specific stuff
+# .gitignore itself
+.gitignore
+
+# PyCharm and VSCode folders
 .idea
-.ruff_cache
 .vscode
 
 # Local History for Visual Studio Code
 .history
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Ruff folder
+.ruff_cache
 
 # LibreOffice locks
 .~lock.*
@@ -39,3 +44,4 @@ cython_debug
 
 # My Backups of Projects
 *_MyBackup*
+/.vscode/
