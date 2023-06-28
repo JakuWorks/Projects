@@ -2,7 +2,7 @@
 
 >### I Created This Repository to Have an Amazing Portfolio All in One Place, Ready To Be Downloaded!
 
-### I Am a Polish Self-Taught Programmer with Great Goals and Aspirations!
+### I Am a Self-Taught Programmer with Great Goals and Aspirations!
 
 #### This Repository Was Created on **14.04.2023 at 17:42 GMT+2** and is Updated To This Day!
 
