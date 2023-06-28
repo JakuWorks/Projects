@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1b4f94-83af-40a1-8f61-81f0cedec202" name="Changes" comment="Test commit">
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/dictionaries/Jakub.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/pylint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/ruff.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.project_tools/prepare_for_commit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/.project_tools/Project_README_Template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/Scratches/AutoHotkeyScriptsArchive/.project_tools/Overview_Template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Small/Scratches/PythonScratchesArchive/.project_tools/Overview_Template.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Small/(W.I.P) Self-HostedSimpleDiscordBot (.py)/W.I.P/.idea/(W.I.P) Self-HostedSimpleDiscordBot (.py).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
