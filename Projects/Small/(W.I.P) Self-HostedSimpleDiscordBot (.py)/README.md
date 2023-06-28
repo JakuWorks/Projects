@@ -3,10 +3,7 @@
 
 ## Important information:
 - There's a setup guide below the project summary.
-- Big thanks to this tutorial - https://www.youtube.com/watch?v=1yLfjMtsV9s, it helped me with this project.
-
-
-<br>
+- Big thanks to this tutorial - https://www.youtube.com/watch?v=1yLfjMtsV9s, it has helped me with this Project.
 
 
 ## Used Coding Languages:
@@ -14,31 +11,19 @@
 - []
 
 
-<br>
-
-
 ## Noteworthy Skills I've Learned:
 - []
 
 
-<br>
-
-
 ## Other Information:
-- The main periods during which I worked on this project were about:  
+- The main periods during which I worked on this Project were about:  
   - **08.06.2023  to  []** - **[] days**
 - This project took me **[] days**!
 - It has **[] lines** of code (without blank lines)!
 
 
-<br>
-
-
 ## Short Description:
 []
-
-
-<br>
 
 
 # Setup Guide step by step:
@@ -47,9 +32,5 @@ Following this guide takes me about [] minutes
 2. [download pip and additional libraries - how I made it easier for You]
 
 
-<br>
-
-
-# Dependencies
-`NOTE: Dependencies are installed automatically when running the script.`
-1. discord.py https://pypi.org/project/discord.py/
+# Credits
+This Project Exists Thanks to the Python, Pip and Python Modules listed in the requirements.txt of this Project!
