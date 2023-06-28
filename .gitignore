@@ -1,9 +1,6 @@
-# .gitignore itself
-.gitignore
-
 # PyCharm and VSCode folders
-.idea
-.vscode
+.idea\
+.vscode\
 
 # Local History for Visual Studio Code
 .history
@@ -11,7 +8,7 @@
 *.vsix
 
 # Ruff folder
-.ruff_cache
+.ruff_cache\
 
 # LibreOffice locks
 .~lock.*
@@ -19,9 +16,8 @@
 # Notepad++ backups #
 *.bak
 
-### Python template
 # Byte-compiled / optimized / DLL files
-__pycache__
+__pycache__\
 *.py[cod]
 *$py.class
 
@@ -40,8 +36,7 @@ pip-delete-this-directory.txt
 cython_debug
 
 # My own project tools
-.project_tools
+.project_tools\
 
 # My Backups of Projects
 *_MyBackup*
-/.vscode/
