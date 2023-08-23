@@ -1,26 +1,9 @@
-# PyCharm and VSCode folders
-**\.vscode
-.vscode\*
-.vscode\
-**/.vscode
-.vscode/*
-.vscode/
-.vscode
-
-**\.idea
-.idea\*
-.idea\
-**/.idea
-.idea/*
-.idea/
-.idea
-
 # Local History for Visual Studio Code
 .history
 # Built Visual Studio Code Extensions
 *.vsix
 
-# Ruff folder
+# Ruff Cache
 **\.ruff_cache
 .ruff_cache\
 .ruff_cache\*
@@ -35,7 +18,7 @@
 # Notepad++ backups #
 *.bak
 
-# Byte-compiled / optimized / DLL files
+# Python Cache
 **\.__pycache__
 __pycache__\*
 __pycache__\
@@ -46,9 +29,6 @@ __pycache__
 
 *.py[cod]
 *$py.class
-
-# C extensions
-*.so
 
 # before PyInstaller builds the exe, so as to inject date/other info into it.
 *.manifest
@@ -61,12 +41,12 @@ pip-delete-this-directory.txt
 # Cython debug symbols
 cython_debug
 
-# My own project tools
+# My project tools
 .project_tools\*
 .project_tools\
 .project_tools/*
 .project_tools/
 .project_tools
 
-# My Backups of Projects
+# My Backups
 *_MyBackup*
