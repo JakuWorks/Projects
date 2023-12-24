@@ -5,6 +5,9 @@
 **/*.vsix
 
 # Ruff folder
+**\.ruff_cache
+.ruff_cache\
+.ruff_cache\*
 **/.ruff_cache
 
 # LibreOffice locks
@@ -17,12 +20,19 @@
 **/*.bak
 
 # Byte-compiled / optimized / DLL files
+**\.__pycache__
+__pycache__\*
+__pycache__\
 **/.__pycache__
-**/*.py[cod]
-**/*$py.class
+__pycache__/*
+__pychache/
+__pycache__
+
+*.py[cod]
+*$py.class
 
 # C extensions
-**/*.so
+*.so
 
 # PyInstaller byproducts
 **/*.manifest
@@ -36,16 +46,11 @@
 **/cython_debug
 
 # My own project tools
-**/project_tools
+.project_tools\*
+.project_tools\
+.project_tools/*
+.project_tools/
+.project_tools
 
 # My Backups of Projects
-**/*_MyBackup*
-
-# Files chosen to be ignored
-**/*ignoreme*
-**/*ignoreme*/
-**/*ignoreme*/*
-
-# .pylintrc File
-**/.pylintrc
-**/pylintrc
+*_MyBackup*
