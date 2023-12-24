@@ -1,72 +1,51 @@
-# PyCharm and VSCode folders
-**\.vscode
-.vscode\*
-.vscode\
-**/.vscode
-.vscode/*
-.vscode/
-.vscode
-
-**\.idea
-.idea\*
-.idea\
-**/.idea
-.idea/*
-.idea/
-.idea
-
 # Local History for Visual Studio Code
-.history
+**/.history
+
 # Built Visual Studio Code Extensions
-*.vsix
+**/*.vsix
 
 # Ruff folder
-**\.ruff_cache
-.ruff_cache\
-.ruff_cache\*
 **/.ruff_cache
-.ruff_cache/
-.ruff_cache/*
-.ruff_cache
 
 # LibreOffice locks
-.~lock.*
+**/.~lock.*
+
+# mypy Cache
+**/.mypy_cache
 
 # Notepad++ backups #
-*.bak
+**/*.bak
 
 # Byte-compiled / optimized / DLL files
-**\.__pycache__
-__pycache__\*
-__pycache__\
 **/.__pycache__
-__pycache__/*
-__pychache/
-__pycache__
-
-*.py[cod]
-*$py.class
+**/*.py[cod]
+**/*$py.class
 
 # C extensions
-*.so
+**/*.so
 
-# before PyInstaller builds the exe, so as to inject date/other info into it.
-*.manifest
-*.spec
+# PyInstaller byproducts
+**/*.manifest
+**/*.spec
 
 # Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+**/pip-log.txt
+**/pip-delete-this-directory.txt
 
 # Cython debug symbols
-cython_debug
+**/cython_debug
 
 # My own project tools
-.project_tools\*
-.project_tools\
-.project_tools/*
-.project_tools/
-.project_tools
+**/project_tools
 
 # My Backups of Projects
-*_MyBackup*
+**/*_MyBackup*
+
+# Files chosen to be ignored
+**/*ignoreme*
+**/*ignoreme*/
+**/*ignoreme*/*
+
+# .pylintrc File
+**/.pylintrc
+**/pylintrc

@@ -3,7 +3,20 @@
 
 
     ; Date created: 28.04.2023
-    ; This is a simple AutoHotkey v2.0 script I made to count all my passwords entries.
+    ; This is a simple AutoHotkey v2.0 script I made to count all my password manager passwords entries.
+
+
+    ; Keybinds:
+    ;
+    ;  TAB  :  Increase count by 1
+    ;
+    ;  C  :  Display current count and reset it
+    ;        If used for counting password manager entries, hold/click tab until you are selecting the first thing AFTER all your entries
+    ;
+    ;  Shift + C  :  Display current count+1 and reset it
+    ;                If used for counting password manager entries, hold/click tab until you are AT the last entry
+    ;
+    ;  Shift + Esc  :  Stop script
 
 
 ; -------------------------------------------------------------------------------------------------------------------------------------
@@ -15,7 +28,6 @@
 Count := 0
 
 
-; TAB - Count +1
 #MaxThreadsPerHotkey 1 
 $Tab:: {
     global Count := Count + 1
@@ -23,15 +35,20 @@ $Tab:: {
 }
 
 
-; C - MsgBox(Count) and Count := 0
 C:: {
     Global Count
-    MsgBox Count + 1 ; +1, because You 'start' from 1 while tabbing
+    MsgBox Count
     Count := 0
 }
 
 
-; Emergency Exit
++C:: {
+    Global Count
+    MsgBox Count + 1
+    Count := 0
+}
+
+
 +Esc:: {
     ExitApp
 }
