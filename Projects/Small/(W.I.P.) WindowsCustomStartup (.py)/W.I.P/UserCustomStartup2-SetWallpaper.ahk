@@ -1,1 +1,0 @@
-DllCall("SystemParametersInfo", "UInt", 0x14, "UInt", 0, "Str", "C:\Users\Jakub\Wallpaper.png", "UInt", 1)

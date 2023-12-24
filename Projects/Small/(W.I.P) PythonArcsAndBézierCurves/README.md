@@ -12,7 +12,9 @@
 
 
 ## Other Information:
-- The main period I worked on this project was around: **01.11.2022 to 15.11.2022** - **14 days**.
+- The main periods I worked on this project were around: 
+  - **01.11.2022 to 15.11.2022** - **14 days** - Main Working Time.
+  - **28.06.2023** - Renovation and Modernization Time.
 - It has around **435 lines**!
 
 
