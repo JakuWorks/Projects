@@ -1,0 +1,10 @@
+[MASTER]
+extension-pkg-whitelist=typing
+
+[TYPECHECK]
+always-true=warning
+assignment-from-none=warning
+check-untyped-defs=true
+check-untyped-tuples=true
+ignore-missing-imports=true
+no-implicit-optional=true
